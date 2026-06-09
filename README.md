@@ -1,4 +1,4 @@
 # AppleSystemApps
-[ [**RU**](https://github.com/itsflameee/AppleSystemApps/blob/main/README_ru.md) / **EN** ] 
+[ [**RU**](https://github.com/itsflameee/AppleSystemApps/blob/main/README_ru.md) / [**EN**](https://github.com/itsflameee/AppleSystemApps/blob/main/README.md) ] 
 
 A collection of original system .ipa apps dumped from iOS 18, featuring a detailed compatibility list for sideloading
