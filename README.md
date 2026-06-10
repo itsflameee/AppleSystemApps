@@ -4,7 +4,8 @@
 A collection of original system .ipa apps dumped from iOS 18, featuring a detailed compatibility list for sideloading
 
 ## What is this?
-In this repository, you can find a variety of system applications pre-extracted from the iOS 18.7.9 firmware for iPhone XS ([iPhone11,2,iPhone11,4,iPhone11,6_18.7.9_22H355_Restore.ipsw](https://ipsw.me/download/iPhone11,2/22H355/)). All compatibility tests were conducted on an iPhone 14 Pro Max running iOS 18.6.2, using LiveContainer to sideload the system apps. A complete list of these applications is provided in the table below.
+In this repository, you can find a variety of system applications pre-extracted from various iOS firmware versions. 
+All tests were conducted on the devices specified in each list, running the indicated firmware, using LiveContainer to sideload all system applications. A complete list of these applications is provided in the table below.
 
 ## Compatibility
 All applications from this repository can be installed inside LiveContainer, but not all of them will launch or function properly. To understand how a specific application behaves, please refer to the application list.
@@ -20,7 +21,10 @@ In the application list, compatibility status is displayed in the corresponding 
 
 
 ## Application List
-### (from iPhone XS 18.7.9, tested on iPhone 14 Pro Max with iOS 18.6.2)
+### from iPhone XS firmware (18.7.9)
+
+These applications were extracted from the [iPhone11,2,iPhone11,4,iPhone11,6_18.7.9_22H355_Restore.ipsw](https://ipsw.me/install/iPhone11,2/22H355/) firmware, and the tests were conducted on an iPhone 14 Pro Max running iOS 18.6.2.
+
 | Icon | App Name | Bundle ID | File | Compatibility | Known Issues | Working Features | 
 | :---: | --- | --- | --- | :-------: | --- | --- |
 | <img src="https://github.com/itsflameee/AppleSystemApps/blob/main/Phone%20Icon.png?raw=true" width="45" height="45"/> | Phone | com.apple.mobilephone | [MobilePhone.ipa](https://github.com/itsflameee/AppleSystemApps/releases/download/systemapps1/MobilePhone.ipa) | **🔵 Working** | "Voicemail" tab is unavailable; making calls triggers an iOS system pop-up confirmation prompt | Making calls, adding and viewing contacts |
