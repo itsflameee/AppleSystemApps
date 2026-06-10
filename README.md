@@ -19,7 +19,8 @@ In the application list, compatibility status is displayed in the corresponding 
 * **🟣 Perfect** - the app is fully functional with no noticeable issues.
 
 
-## Application List (from iPhone XS 18.7.9, tested on iPhone 14 Pro Max with iOS 18.6.2)
+## Application List
+### (from iPhone XS 18.7.9, tested on iPhone 14 Pro Max with iOS 18.6.2)
 | Icon | App Name | Bundle ID | File | Compatibility | Known Issues | Working Features | 
 | :---: | --- | --- | --- | :-------: | --- | --- |
 | <img src="https://github.com/itsflameee/AppleSystemApps/blob/main/Phone%20Icon.png?raw=true" width="45" height="45"/> | Phone | com.apple.mobilephone | [MobilePhone.ipa](https://github.com/itsflameee/AppleSystemApps/releases/download/systemapps1/MobilePhone.ipa) | **🔵 Working** | "Voicemail" tab is unavailable; making calls triggers an iOS system pop-up confirmation prompt | Making calls, adding and viewing contacts |
