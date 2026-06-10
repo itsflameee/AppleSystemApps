@@ -19,7 +19,7 @@
 * **🟣 Идеально** - приложение полностью функционирует.
 
 
-## Список приложений
+## Список приложений (из прошивки iPhone XS 18.7.9, тестировались на iPhone 14 Pro Max with iOS 18.6.2)
 | Иконка | Имя приложения | Имя пакета | Файл | Совместимость | Известные проблемы | Работающие функции | 
 | :---: | --- | --- | --- | :-------: | --- | --- |
 | <img src="https://github.com/itsflameee/AppleSystemApps/blob/main/Phone%20Icon.png?raw=true" width="45" height="45"/> | Phone | com.apple.mobilephone | [MobilePhone.ipa](https://github.com/itsflameee/AppleSystemApps/releases/download/systemapps1/MobilePhone.ipa) | **🔵 Работает** | Вкладка "Автоответчик" недоступна, при попытке вызова iOS запросит подтверждение через всплывающее окно | Вызовы, добавление и чтение контактов |
